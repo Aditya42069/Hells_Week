@@ -18,3 +18,4 @@ Sigmoid:-
 
 #### Dataset
 Hells Week Kaggle Dataset used.
+## Find code in model.ipynb
